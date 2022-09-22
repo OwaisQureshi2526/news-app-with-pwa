@@ -1,0 +1,10 @@
+body {
+    background-image: url('./images/bg.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+.read_btn {
+    background-color: transparent !important;
+}
